@@ -68,3 +68,8 @@ This project uses computer vision + hand tracking to enable real-time air drawin
 |-----|--------|
 | ESC | Exit 🚪 |
 | C | Clear Canvas 🧹 |
+
+---
+
+## Author
+Harsh Sanjit
